@@ -1,6 +1,6 @@
 # Deep Learning for Breast Cancer Segmentation: U-Net vs. Attention U-Net
 
-This repository compares two deep-learning segmentation models—**U-Net** and **Attention U-Net**—for breast cancer lesion mask segmentation using TensorFlow/Keras.
+This repository compares two deep-learning segmentation models **U-Net** and **Attention U-Net** for breast cancer lesion mask segmentation using TensorFlow/Keras.
 
 ## Project overview
 Goal: segment breast cancer regions (binary masks) from input images using encoder–decoder CNN architectures (U-Net variants).
